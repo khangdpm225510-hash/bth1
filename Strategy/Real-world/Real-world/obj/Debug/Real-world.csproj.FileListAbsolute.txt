@@ -1,0 +1,7 @@
+Z:\Strategy\Real-world\Real-world\bin\Debug\Real-world.exe.config
+Z:\Strategy\Real-world\Real-world\bin\Debug\Real-world.exe
+Z:\Strategy\Real-world\Real-world\bin\Debug\Real-world.pdb
+Z:\Strategy\Real-world\Real-world\obj\Debug\Real-world.csproj.AssemblyReference.cache
+Z:\Strategy\Real-world\Real-world\obj\Debug\Real-world.csproj.CoreCompileInputs.cache
+Z:\Strategy\Real-world\Real-world\obj\Debug\Real-world.exe
+Z:\Strategy\Real-world\Real-world\obj\Debug\Real-world.pdb

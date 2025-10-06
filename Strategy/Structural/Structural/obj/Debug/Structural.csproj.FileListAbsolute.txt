@@ -1,0 +1,7 @@
+Z:\Strategy\Structural\Structural\bin\Debug\Structural.exe.config
+Z:\Strategy\Structural\Structural\bin\Debug\Structural.exe
+Z:\Strategy\Structural\Structural\bin\Debug\Structural.pdb
+Z:\Strategy\Structural\Structural\obj\Debug\Structural.csproj.AssemblyReference.cache
+Z:\Strategy\Structural\Structural\obj\Debug\Structural.csproj.CoreCompileInputs.cache
+Z:\Strategy\Structural\Structural\obj\Debug\Structural.exe
+Z:\Strategy\Structural\Structural\obj\Debug\Structural.pdb
