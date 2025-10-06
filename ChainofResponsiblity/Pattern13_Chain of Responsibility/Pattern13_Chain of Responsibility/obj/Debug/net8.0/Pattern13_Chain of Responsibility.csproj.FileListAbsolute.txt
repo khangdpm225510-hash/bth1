@@ -1,0 +1,14 @@
+Z:\Hungle\Pattern13_Chain of Responsibility\Pattern13_Chain of Responsibility\bin\Debug\net8.0\Pattern13_Chain of Responsibility.exe
+Z:\Hungle\Pattern13_Chain of Responsibility\Pattern13_Chain of Responsibility\bin\Debug\net8.0\Pattern13_Chain of Responsibility.deps.json
+Z:\Hungle\Pattern13_Chain of Responsibility\Pattern13_Chain of Responsibility\bin\Debug\net8.0\Pattern13_Chain of Responsibility.runtimeconfig.json
+Z:\Hungle\Pattern13_Chain of Responsibility\Pattern13_Chain of Responsibility\bin\Debug\net8.0\Pattern13_Chain of Responsibility.dll
+Z:\Hungle\Pattern13_Chain of Responsibility\Pattern13_Chain of Responsibility\bin\Debug\net8.0\Pattern13_Chain of Responsibility.pdb
+Z:\Hungle\Pattern13_Chain of Responsibility\Pattern13_Chain of Responsibility\obj\Debug\net8.0\Pattern13_Chain of Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Hungle\Pattern13_Chain of Responsibility\Pattern13_Chain of Responsibility\obj\Debug\net8.0\Pattern13_Chain of Responsibility.AssemblyInfoInputs.cache
+Z:\Hungle\Pattern13_Chain of Responsibility\Pattern13_Chain of Responsibility\obj\Debug\net8.0\Pattern13_Chain of Responsibility.AssemblyInfo.cs
+Z:\Hungle\Pattern13_Chain of Responsibility\Pattern13_Chain of Responsibility\obj\Debug\net8.0\Pattern13_Chain of Responsibility.csproj.CoreCompileInputs.cache
+Z:\Hungle\Pattern13_Chain of Responsibility\Pattern13_Chain of Responsibility\obj\Debug\net8.0\Pattern13_Chain of Responsibility.dll
+Z:\Hungle\Pattern13_Chain of Responsibility\Pattern13_Chain of Responsibility\obj\Debug\net8.0\refint\Pattern13_Chain of Responsibility.dll
+Z:\Hungle\Pattern13_Chain of Responsibility\Pattern13_Chain of Responsibility\obj\Debug\net8.0\Pattern13_Chain of Responsibility.pdb
+Z:\Hungle\Pattern13_Chain of Responsibility\Pattern13_Chain of Responsibility\obj\Debug\net8.0\Pattern13_Chain of Responsibility.genruntimeconfig.cache
+Z:\Hungle\Pattern13_Chain of Responsibility\Pattern13_Chain of Responsibility\obj\Debug\net8.0\ref\Pattern13_Chain of Responsibility.dll

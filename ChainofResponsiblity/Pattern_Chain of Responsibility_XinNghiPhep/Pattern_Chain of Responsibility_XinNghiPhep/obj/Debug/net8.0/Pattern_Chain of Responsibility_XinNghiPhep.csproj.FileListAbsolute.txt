@@ -1,0 +1,14 @@
+Z:\Hungle\Pattern_Chain of Responsibility_XinNghiPhep\Pattern_Chain of Responsibility_XinNghiPhep\obj\Debug\net8.0\Pattern_Chain of Responsibility_XinNghiPhep.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Hungle\Pattern_Chain of Responsibility_XinNghiPhep\Pattern_Chain of Responsibility_XinNghiPhep\obj\Debug\net8.0\Pattern_Chain of Responsibility_XinNghiPhep.AssemblyInfoInputs.cache
+Z:\Hungle\Pattern_Chain of Responsibility_XinNghiPhep\Pattern_Chain of Responsibility_XinNghiPhep\obj\Debug\net8.0\Pattern_Chain of Responsibility_XinNghiPhep.AssemblyInfo.cs
+Z:\Hungle\Pattern_Chain of Responsibility_XinNghiPhep\Pattern_Chain of Responsibility_XinNghiPhep\obj\Debug\net8.0\Pattern_Chain of Responsibility_XinNghiPhep.csproj.CoreCompileInputs.cache
+Z:\Hungle\Pattern_Chain of Responsibility_XinNghiPhep\Pattern_Chain of Responsibility_XinNghiPhep\bin\Debug\net8.0\Pattern_Chain of Responsibility_XinNghiPhep.exe
+Z:\Hungle\Pattern_Chain of Responsibility_XinNghiPhep\Pattern_Chain of Responsibility_XinNghiPhep\bin\Debug\net8.0\Pattern_Chain of Responsibility_XinNghiPhep.deps.json
+Z:\Hungle\Pattern_Chain of Responsibility_XinNghiPhep\Pattern_Chain of Responsibility_XinNghiPhep\bin\Debug\net8.0\Pattern_Chain of Responsibility_XinNghiPhep.runtimeconfig.json
+Z:\Hungle\Pattern_Chain of Responsibility_XinNghiPhep\Pattern_Chain of Responsibility_XinNghiPhep\bin\Debug\net8.0\Pattern_Chain of Responsibility_XinNghiPhep.dll
+Z:\Hungle\Pattern_Chain of Responsibility_XinNghiPhep\Pattern_Chain of Responsibility_XinNghiPhep\bin\Debug\net8.0\Pattern_Chain of Responsibility_XinNghiPhep.pdb
+Z:\Hungle\Pattern_Chain of Responsibility_XinNghiPhep\Pattern_Chain of Responsibility_XinNghiPhep\obj\Debug\net8.0\Pattern_Chain of Responsibility_XinNghiPhep.dll
+Z:\Hungle\Pattern_Chain of Responsibility_XinNghiPhep\Pattern_Chain of Responsibility_XinNghiPhep\obj\Debug\net8.0\refint\Pattern_Chain of Responsibility_XinNghiPhep.dll
+Z:\Hungle\Pattern_Chain of Responsibility_XinNghiPhep\Pattern_Chain of Responsibility_XinNghiPhep\obj\Debug\net8.0\Pattern_Chain of Responsibility_XinNghiPhep.pdb
+Z:\Hungle\Pattern_Chain of Responsibility_XinNghiPhep\Pattern_Chain of Responsibility_XinNghiPhep\obj\Debug\net8.0\Pattern_Chain of Responsibility_XinNghiPhep.genruntimeconfig.cache
+Z:\Hungle\Pattern_Chain of Responsibility_XinNghiPhep\Pattern_Chain of Responsibility_XinNghiPhep\obj\Debug\net8.0\ref\Pattern_Chain of Responsibility_XinNghiPhep.dll
