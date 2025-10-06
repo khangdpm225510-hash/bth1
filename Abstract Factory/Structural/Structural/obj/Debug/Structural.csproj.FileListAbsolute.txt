@@ -1,0 +1,7 @@
+Z:\3 Patterns\Abstract Factory\Structural\Structural\bin\Debug\Structural.exe.config
+Z:\3 Patterns\Abstract Factory\Structural\Structural\bin\Debug\Structural.exe
+Z:\3 Patterns\Abstract Factory\Structural\Structural\bin\Debug\Structural.pdb
+Z:\3 Patterns\Abstract Factory\Structural\Structural\obj\Debug\Structural.csproj.AssemblyReference.cache
+Z:\3 Patterns\Abstract Factory\Structural\Structural\obj\Debug\Structural.csproj.CoreCompileInputs.cache
+Z:\3 Patterns\Abstract Factory\Structural\Structural\obj\Debug\Structural.exe
+Z:\3 Patterns\Abstract Factory\Structural\Structural\obj\Debug\Structural.pdb

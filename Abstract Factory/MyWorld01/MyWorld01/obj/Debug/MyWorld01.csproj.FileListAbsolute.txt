@@ -1,0 +1,7 @@
+Z:\3 Patterns\Abstract Factory\MyWorld01\MyWorld01\obj\Debug\MyWorld01.csproj.AssemblyReference.cache
+Z:\3 Patterns\Abstract Factory\MyWorld01\MyWorld01\obj\Debug\MyWorld01.csproj.CoreCompileInputs.cache
+Z:\3 Patterns\Abstract Factory\MyWorld01\MyWorld01\bin\Debug\MyWorld01.exe.config
+Z:\3 Patterns\Abstract Factory\MyWorld01\MyWorld01\bin\Debug\MyWorld01.exe
+Z:\3 Patterns\Abstract Factory\MyWorld01\MyWorld01\bin\Debug\MyWorld01.pdb
+Z:\3 Patterns\Abstract Factory\MyWorld01\MyWorld01\obj\Debug\MyWorld01.exe
+Z:\3 Patterns\Abstract Factory\MyWorld01\MyWorld01\obj\Debug\MyWorld01.pdb
