@@ -1,0 +1,7 @@
+Z:\3 Patterns\Builder\Real-world\Real-world\bin\Debug\Real-world.exe.config
+Z:\3 Patterns\Builder\Real-world\Real-world\bin\Debug\Real-world.exe
+Z:\3 Patterns\Builder\Real-world\Real-world\bin\Debug\Real-world.pdb
+Z:\3 Patterns\Builder\Real-world\Real-world\obj\Debug\Real-world.csproj.AssemblyReference.cache
+Z:\3 Patterns\Builder\Real-world\Real-world\obj\Debug\Real-world.csproj.CoreCompileInputs.cache
+Z:\3 Patterns\Builder\Real-world\Real-world\obj\Debug\Real-world.exe
+Z:\3 Patterns\Builder\Real-world\Real-world\obj\Debug\Real-world.pdb
