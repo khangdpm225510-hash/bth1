@@ -1,0 +1,7 @@
+Z:\DPM225427_NguyenTuanKiet_Myworld_23_Visitor\Myworld\bin\Debug\Myworld.exe.config
+Z:\DPM225427_NguyenTuanKiet_Myworld_23_Visitor\Myworld\bin\Debug\Myworld.exe
+Z:\DPM225427_NguyenTuanKiet_Myworld_23_Visitor\Myworld\bin\Debug\Myworld.pdb
+Z:\DPM225427_NguyenTuanKiet_Myworld_23_Visitor\Myworld\obj\Debug\Myworld.csproj.AssemblyReference.cache
+Z:\DPM225427_NguyenTuanKiet_Myworld_23_Visitor\Myworld\obj\Debug\Myworld.csproj.CoreCompileInputs.cache
+Z:\DPM225427_NguyenTuanKiet_Myworld_23_Visitor\Myworld\obj\Debug\Myworld.exe
+Z:\DPM225427_NguyenTuanKiet_Myworld_23_Visitor\Myworld\obj\Debug\Myworld.pdb

@@ -1,0 +1,7 @@
+Z:\DPM225427_NguyenTuanKiet_Pattern_23_Visitor\Pattern\bin\Debug\Pattern.exe.config
+Z:\DPM225427_NguyenTuanKiet_Pattern_23_Visitor\Pattern\bin\Debug\Pattern.exe
+Z:\DPM225427_NguyenTuanKiet_Pattern_23_Visitor\Pattern\bin\Debug\Pattern.pdb
+Z:\DPM225427_NguyenTuanKiet_Pattern_23_Visitor\Pattern\obj\Debug\Pattern.csproj.AssemblyReference.cache
+Z:\DPM225427_NguyenTuanKiet_Pattern_23_Visitor\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+Z:\DPM225427_NguyenTuanKiet_Pattern_23_Visitor\Pattern\obj\Debug\Pattern.exe
+Z:\DPM225427_NguyenTuanKiet_Pattern_23_Visitor\Pattern\obj\Debug\Pattern.pdb
