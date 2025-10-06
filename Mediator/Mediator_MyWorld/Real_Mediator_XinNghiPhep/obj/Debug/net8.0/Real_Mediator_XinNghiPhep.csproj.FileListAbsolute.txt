@@ -1,0 +1,14 @@
+Z:\Hungle\Real_Mediator_XinNghiPhep\Real_Mediator_XinNghiPhep\bin\Debug\net8.0\Real_Mediator_XinNghiPhep.exe
+Z:\Hungle\Real_Mediator_XinNghiPhep\Real_Mediator_XinNghiPhep\bin\Debug\net8.0\Real_Mediator_XinNghiPhep.deps.json
+Z:\Hungle\Real_Mediator_XinNghiPhep\Real_Mediator_XinNghiPhep\bin\Debug\net8.0\Real_Mediator_XinNghiPhep.runtimeconfig.json
+Z:\Hungle\Real_Mediator_XinNghiPhep\Real_Mediator_XinNghiPhep\bin\Debug\net8.0\Real_Mediator_XinNghiPhep.dll
+Z:\Hungle\Real_Mediator_XinNghiPhep\Real_Mediator_XinNghiPhep\bin\Debug\net8.0\Real_Mediator_XinNghiPhep.pdb
+Z:\Hungle\Real_Mediator_XinNghiPhep\Real_Mediator_XinNghiPhep\obj\Debug\net8.0\Real_Mediator_XinNghiPhep.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Hungle\Real_Mediator_XinNghiPhep\Real_Mediator_XinNghiPhep\obj\Debug\net8.0\Real_Mediator_XinNghiPhep.AssemblyInfoInputs.cache
+Z:\Hungle\Real_Mediator_XinNghiPhep\Real_Mediator_XinNghiPhep\obj\Debug\net8.0\Real_Mediator_XinNghiPhep.AssemblyInfo.cs
+Z:\Hungle\Real_Mediator_XinNghiPhep\Real_Mediator_XinNghiPhep\obj\Debug\net8.0\Real_Mediator_XinNghiPhep.csproj.CoreCompileInputs.cache
+Z:\Hungle\Real_Mediator_XinNghiPhep\Real_Mediator_XinNghiPhep\obj\Debug\net8.0\Real_Mediator_XinNghiPhep.dll
+Z:\Hungle\Real_Mediator_XinNghiPhep\Real_Mediator_XinNghiPhep\obj\Debug\net8.0\refint\Real_Mediator_XinNghiPhep.dll
+Z:\Hungle\Real_Mediator_XinNghiPhep\Real_Mediator_XinNghiPhep\obj\Debug\net8.0\Real_Mediator_XinNghiPhep.pdb
+Z:\Hungle\Real_Mediator_XinNghiPhep\Real_Mediator_XinNghiPhep\obj\Debug\net8.0\Real_Mediator_XinNghiPhep.genruntimeconfig.cache
+Z:\Hungle\Real_Mediator_XinNghiPhep\Real_Mediator_XinNghiPhep\obj\Debug\net8.0\ref\Real_Mediator_XinNghiPhep.dll
