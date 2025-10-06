@@ -1,7 +1,0 @@
-D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\TH2\Prototype\Myworld\Myworld\bin\Debug\Myworld.exe.config
-D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\TH2\Prototype\Myworld\Myworld\bin\Debug\Myworld.exe
-D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\TH2\Prototype\Myworld\Myworld\bin\Debug\Myworld.pdb
-D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\TH2\Prototype\Myworld\Myworld\obj\Debug\Myworld.csproj.AssemblyReference.cache
-D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\TH2\Prototype\Myworld\Myworld\obj\Debug\Myworld.csproj.CoreCompileInputs.cache
-D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\TH2\Prototype\Myworld\Myworld\obj\Debug\Myworld.exe
-D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\TH2\Prototype\Myworld\Myworld\obj\Debug\Myworld.pdb
