@@ -1,0 +1,7 @@
+Z:\Design Patterns\Real-world\Real-world\bin\Debug\Real-world.exe.config
+Z:\Design Patterns\Real-world\Real-world\bin\Debug\Real-world.exe
+Z:\Design Patterns\Real-world\Real-world\bin\Debug\Real-world.pdb
+Z:\Design Patterns\Real-world\Real-world\obj\Debug\Real-world.csproj.AssemblyReference.cache
+Z:\Design Patterns\Real-world\Real-world\obj\Debug\Real-world.csproj.CoreCompileInputs.cache
+Z:\Design Patterns\Real-world\Real-world\obj\Debug\Real-world.exe
+Z:\Design Patterns\Real-world\Real-world\obj\Debug\Real-world.pdb
