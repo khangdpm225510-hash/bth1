@@ -1,0 +1,14 @@
+Z:\Factory method\Real\Real\obj\Debug\net8.0\Real.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Factory method\Real\Real\obj\Debug\net8.0\Real.AssemblyInfoInputs.cache
+Z:\Factory method\Real\Real\obj\Debug\net8.0\Real.AssemblyInfo.cs
+Z:\Factory method\Real\Real\obj\Debug\net8.0\Real.csproj.CoreCompileInputs.cache
+Z:\Factory method\Real\Real\bin\Debug\net8.0\Real.exe
+Z:\Factory method\Real\Real\bin\Debug\net8.0\Real.deps.json
+Z:\Factory method\Real\Real\bin\Debug\net8.0\Real.runtimeconfig.json
+Z:\Factory method\Real\Real\bin\Debug\net8.0\Real.dll
+Z:\Factory method\Real\Real\bin\Debug\net8.0\Real.pdb
+Z:\Factory method\Real\Real\obj\Debug\net8.0\Real.dll
+Z:\Factory method\Real\Real\obj\Debug\net8.0\refint\Real.dll
+Z:\Factory method\Real\Real\obj\Debug\net8.0\Real.pdb
+Z:\Factory method\Real\Real\obj\Debug\net8.0\Real.genruntimeconfig.cache
+Z:\Factory method\Real\Real\obj\Debug\net8.0\ref\Real.dll
