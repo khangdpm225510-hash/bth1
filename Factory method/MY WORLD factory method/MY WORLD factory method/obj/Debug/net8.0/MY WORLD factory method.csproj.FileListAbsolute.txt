@@ -1,0 +1,14 @@
+Z:\MY WORLD factory method\MY WORLD factory method\obj\Debug\net8.0\MY WORLD factory method.GeneratedMSBuildEditorConfig.editorconfig
+Z:\MY WORLD factory method\MY WORLD factory method\obj\Debug\net8.0\MY WORLD factory method.AssemblyInfoInputs.cache
+Z:\MY WORLD factory method\MY WORLD factory method\obj\Debug\net8.0\MY WORLD factory method.AssemblyInfo.cs
+Z:\MY WORLD factory method\MY WORLD factory method\obj\Debug\net8.0\MY WORLD factory method.csproj.CoreCompileInputs.cache
+Z:\MY WORLD factory method\MY WORLD factory method\bin\Debug\net8.0\MY WORLD factory method.exe
+Z:\MY WORLD factory method\MY WORLD factory method\bin\Debug\net8.0\MY WORLD factory method.deps.json
+Z:\MY WORLD factory method\MY WORLD factory method\bin\Debug\net8.0\MY WORLD factory method.runtimeconfig.json
+Z:\MY WORLD factory method\MY WORLD factory method\bin\Debug\net8.0\MY WORLD factory method.dll
+Z:\MY WORLD factory method\MY WORLD factory method\bin\Debug\net8.0\MY WORLD factory method.pdb
+Z:\MY WORLD factory method\MY WORLD factory method\obj\Debug\net8.0\MY WORLD factory method.dll
+Z:\MY WORLD factory method\MY WORLD factory method\obj\Debug\net8.0\refint\MY WORLD factory method.dll
+Z:\MY WORLD factory method\MY WORLD factory method\obj\Debug\net8.0\MY WORLD factory method.pdb
+Z:\MY WORLD factory method\MY WORLD factory method\obj\Debug\net8.0\MY WORLD factory method.genruntimeconfig.cache
+Z:\MY WORLD factory method\MY WORLD factory method\obj\Debug\net8.0\ref\MY WORLD factory method.dll
