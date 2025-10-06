@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "pattern18_Memeto/1.0.0": {
+        "runtime": {
+          "pattern18_Memeto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pattern18_Memeto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

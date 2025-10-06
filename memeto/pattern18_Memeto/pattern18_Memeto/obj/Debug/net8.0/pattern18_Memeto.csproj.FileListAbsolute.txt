@@ -1,0 +1,14 @@
+Z:\pattern18_Memeto\pattern18_Memeto\obj\Debug\net8.0\pattern18_Memeto.GeneratedMSBuildEditorConfig.editorconfig
+Z:\pattern18_Memeto\pattern18_Memeto\obj\Debug\net8.0\pattern18_Memeto.AssemblyInfoInputs.cache
+Z:\pattern18_Memeto\pattern18_Memeto\obj\Debug\net8.0\pattern18_Memeto.AssemblyInfo.cs
+Z:\pattern18_Memeto\pattern18_Memeto\obj\Debug\net8.0\pattern18_Memeto.csproj.CoreCompileInputs.cache
+Z:\pattern18_Memeto\pattern18_Memeto\bin\Debug\net8.0\pattern18_Memeto.exe
+Z:\pattern18_Memeto\pattern18_Memeto\bin\Debug\net8.0\pattern18_Memeto.deps.json
+Z:\pattern18_Memeto\pattern18_Memeto\bin\Debug\net8.0\pattern18_Memeto.runtimeconfig.json
+Z:\pattern18_Memeto\pattern18_Memeto\bin\Debug\net8.0\pattern18_Memeto.dll
+Z:\pattern18_Memeto\pattern18_Memeto\bin\Debug\net8.0\pattern18_Memeto.pdb
+Z:\pattern18_Memeto\pattern18_Memeto\obj\Debug\net8.0\pattern18_Memeto.dll
+Z:\pattern18_Memeto\pattern18_Memeto\obj\Debug\net8.0\refint\pattern18_Memeto.dll
+Z:\pattern18_Memeto\pattern18_Memeto\obj\Debug\net8.0\pattern18_Memeto.pdb
+Z:\pattern18_Memeto\pattern18_Memeto\obj\Debug\net8.0\pattern18_Memeto.genruntimeconfig.cache
+Z:\pattern18_Memeto\pattern18_Memeto\obj\Debug\net8.0\ref\pattern18_Memeto.dll

@@ -1,0 +1,14 @@
+Z:\real18_memeto\real18_memeto\obj\Debug\net8.0\real18_memeto.GeneratedMSBuildEditorConfig.editorconfig
+Z:\real18_memeto\real18_memeto\obj\Debug\net8.0\real18_memeto.AssemblyInfoInputs.cache
+Z:\real18_memeto\real18_memeto\obj\Debug\net8.0\real18_memeto.AssemblyInfo.cs
+Z:\real18_memeto\real18_memeto\obj\Debug\net8.0\real18_memeto.csproj.CoreCompileInputs.cache
+Z:\real18_memeto\real18_memeto\bin\Debug\net8.0\real18_memeto.exe
+Z:\real18_memeto\real18_memeto\bin\Debug\net8.0\real18_memeto.deps.json
+Z:\real18_memeto\real18_memeto\bin\Debug\net8.0\real18_memeto.runtimeconfig.json
+Z:\real18_memeto\real18_memeto\bin\Debug\net8.0\real18_memeto.dll
+Z:\real18_memeto\real18_memeto\bin\Debug\net8.0\real18_memeto.pdb
+Z:\real18_memeto\real18_memeto\obj\Debug\net8.0\real18_memeto.dll
+Z:\real18_memeto\real18_memeto\obj\Debug\net8.0\refint\real18_memeto.dll
+Z:\real18_memeto\real18_memeto\obj\Debug\net8.0\real18_memeto.pdb
+Z:\real18_memeto\real18_memeto\obj\Debug\net8.0\real18_memeto.genruntimeconfig.cache
+Z:\real18_memeto\real18_memeto\obj\Debug\net8.0\ref\real18_memeto.dll

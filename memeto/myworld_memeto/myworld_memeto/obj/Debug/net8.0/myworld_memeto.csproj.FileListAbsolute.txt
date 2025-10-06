@@ -1,0 +1,14 @@
+Z:\myworld_memeto\myworld_memeto\bin\Debug\net8.0\myworld_memeto.exe
+Z:\myworld_memeto\myworld_memeto\bin\Debug\net8.0\myworld_memeto.deps.json
+Z:\myworld_memeto\myworld_memeto\bin\Debug\net8.0\myworld_memeto.runtimeconfig.json
+Z:\myworld_memeto\myworld_memeto\bin\Debug\net8.0\myworld_memeto.dll
+Z:\myworld_memeto\myworld_memeto\bin\Debug\net8.0\myworld_memeto.pdb
+Z:\myworld_memeto\myworld_memeto\obj\Debug\net8.0\myworld_memeto.GeneratedMSBuildEditorConfig.editorconfig
+Z:\myworld_memeto\myworld_memeto\obj\Debug\net8.0\myworld_memeto.AssemblyInfoInputs.cache
+Z:\myworld_memeto\myworld_memeto\obj\Debug\net8.0\myworld_memeto.AssemblyInfo.cs
+Z:\myworld_memeto\myworld_memeto\obj\Debug\net8.0\myworld_memeto.csproj.CoreCompileInputs.cache
+Z:\myworld_memeto\myworld_memeto\obj\Debug\net8.0\myworld_memeto.dll
+Z:\myworld_memeto\myworld_memeto\obj\Debug\net8.0\refint\myworld_memeto.dll
+Z:\myworld_memeto\myworld_memeto\obj\Debug\net8.0\myworld_memeto.pdb
+Z:\myworld_memeto\myworld_memeto\obj\Debug\net8.0\myworld_memeto.genruntimeconfig.cache
+Z:\myworld_memeto\myworld_memeto\obj\Debug\net8.0\ref\myworld_memeto.dll
