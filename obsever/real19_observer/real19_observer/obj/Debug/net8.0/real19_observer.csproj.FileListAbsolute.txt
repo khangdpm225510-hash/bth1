@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\real19_observer\real19_observer\obj\Debug\net8.0\real19_observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\real19_observer\real19_observer\obj\Debug\net8.0\real19_observer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\real19_observer\real19_observer\obj\Debug\net8.0\real19_observer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\real19_observer\real19_observer\obj\Debug\net8.0\real19_observer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\real19_observer\real19_observer\bin\Debug\net8.0\real19_observer.exe
+C:\Users\Admin\source\repos\real19_observer\real19_observer\bin\Debug\net8.0\real19_observer.deps.json
+C:\Users\Admin\source\repos\real19_observer\real19_observer\bin\Debug\net8.0\real19_observer.runtimeconfig.json
+C:\Users\Admin\source\repos\real19_observer\real19_observer\bin\Debug\net8.0\real19_observer.dll
+C:\Users\Admin\source\repos\real19_observer\real19_observer\bin\Debug\net8.0\real19_observer.pdb
+C:\Users\Admin\source\repos\real19_observer\real19_observer\obj\Debug\net8.0\real19_observer.dll
+C:\Users\Admin\source\repos\real19_observer\real19_observer\obj\Debug\net8.0\refint\real19_observer.dll
+C:\Users\Admin\source\repos\real19_observer\real19_observer\obj\Debug\net8.0\real19_observer.pdb
+C:\Users\Admin\source\repos\real19_observer\real19_observer\obj\Debug\net8.0\real19_observer.genruntimeconfig.cache
+C:\Users\Admin\source\repos\real19_observer\real19_observer\obj\Debug\net8.0\ref\real19_observer.dll

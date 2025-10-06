@@ -1,0 +1,14 @@
+Z:\myworld_obsever\myworld_obsever\obj\Debug\net8.0\myworld_obsever.GeneratedMSBuildEditorConfig.editorconfig
+Z:\myworld_obsever\myworld_obsever\obj\Debug\net8.0\myworld_obsever.AssemblyInfoInputs.cache
+Z:\myworld_obsever\myworld_obsever\obj\Debug\net8.0\myworld_obsever.AssemblyInfo.cs
+Z:\myworld_obsever\myworld_obsever\obj\Debug\net8.0\myworld_obsever.csproj.CoreCompileInputs.cache
+Z:\myworld_obsever\myworld_obsever\bin\Debug\net8.0\myworld_obsever.exe
+Z:\myworld_obsever\myworld_obsever\bin\Debug\net8.0\myworld_obsever.deps.json
+Z:\myworld_obsever\myworld_obsever\bin\Debug\net8.0\myworld_obsever.runtimeconfig.json
+Z:\myworld_obsever\myworld_obsever\bin\Debug\net8.0\myworld_obsever.dll
+Z:\myworld_obsever\myworld_obsever\bin\Debug\net8.0\myworld_obsever.pdb
+Z:\myworld_obsever\myworld_obsever\obj\Debug\net8.0\myworld_obsever.dll
+Z:\myworld_obsever\myworld_obsever\obj\Debug\net8.0\refint\myworld_obsever.dll
+Z:\myworld_obsever\myworld_obsever\obj\Debug\net8.0\myworld_obsever.pdb
+Z:\myworld_obsever\myworld_obsever\obj\Debug\net8.0\myworld_obsever.genruntimeconfig.cache
+Z:\myworld_obsever\myworld_obsever\obj\Debug\net8.0\ref\myworld_obsever.dll
