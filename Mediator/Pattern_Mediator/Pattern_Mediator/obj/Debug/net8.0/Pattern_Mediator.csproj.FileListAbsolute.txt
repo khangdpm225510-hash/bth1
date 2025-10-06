@@ -1,0 +1,14 @@
+Z:\Hungle\Pattern_Mediator\Pattern_Mediator\bin\Debug\net8.0\Pattern_Mediator.exe
+Z:\Hungle\Pattern_Mediator\Pattern_Mediator\bin\Debug\net8.0\Pattern_Mediator.deps.json
+Z:\Hungle\Pattern_Mediator\Pattern_Mediator\bin\Debug\net8.0\Pattern_Mediator.runtimeconfig.json
+Z:\Hungle\Pattern_Mediator\Pattern_Mediator\bin\Debug\net8.0\Pattern_Mediator.dll
+Z:\Hungle\Pattern_Mediator\Pattern_Mediator\bin\Debug\net8.0\Pattern_Mediator.pdb
+Z:\Hungle\Pattern_Mediator\Pattern_Mediator\obj\Debug\net8.0\Pattern_Mediator.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Hungle\Pattern_Mediator\Pattern_Mediator\obj\Debug\net8.0\Pattern_Mediator.AssemblyInfoInputs.cache
+Z:\Hungle\Pattern_Mediator\Pattern_Mediator\obj\Debug\net8.0\Pattern_Mediator.AssemblyInfo.cs
+Z:\Hungle\Pattern_Mediator\Pattern_Mediator\obj\Debug\net8.0\Pattern_Mediator.csproj.CoreCompileInputs.cache
+Z:\Hungle\Pattern_Mediator\Pattern_Mediator\obj\Debug\net8.0\Pattern_Mediator.dll
+Z:\Hungle\Pattern_Mediator\Pattern_Mediator\obj\Debug\net8.0\refint\Pattern_Mediator.dll
+Z:\Hungle\Pattern_Mediator\Pattern_Mediator\obj\Debug\net8.0\Pattern_Mediator.pdb
+Z:\Hungle\Pattern_Mediator\Pattern_Mediator\obj\Debug\net8.0\Pattern_Mediator.genruntimeconfig.cache
+Z:\Hungle\Pattern_Mediator\Pattern_Mediator\obj\Debug\net8.0\ref\Pattern_Mediator.dll

@@ -1,0 +1,14 @@
+Z:\Hungle\Real_Mediator\Real_Mediator\bin\Debug\net8.0\Real_Mediator_PhongChat.exe
+Z:\Hungle\Real_Mediator\Real_Mediator\bin\Debug\net8.0\Real_Mediator_PhongChat.deps.json
+Z:\Hungle\Real_Mediator\Real_Mediator\bin\Debug\net8.0\Real_Mediator_PhongChat.runtimeconfig.json
+Z:\Hungle\Real_Mediator\Real_Mediator\bin\Debug\net8.0\Real_Mediator_PhongChat.dll
+Z:\Hungle\Real_Mediator\Real_Mediator\bin\Debug\net8.0\Real_Mediator_PhongChat.pdb
+Z:\Hungle\Real_Mediator\Real_Mediator\obj\Debug\net8.0\Real_Mediator_PhongChat.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Hungle\Real_Mediator\Real_Mediator\obj\Debug\net8.0\Real_Mediator_PhongChat.AssemblyInfoInputs.cache
+Z:\Hungle\Real_Mediator\Real_Mediator\obj\Debug\net8.0\Real_Mediator_PhongChat.AssemblyInfo.cs
+Z:\Hungle\Real_Mediator\Real_Mediator\obj\Debug\net8.0\Real_Mediator_PhongChat.csproj.CoreCompileInputs.cache
+Z:\Hungle\Real_Mediator\Real_Mediator\obj\Debug\net8.0\Real_Mediator_PhongChat.dll
+Z:\Hungle\Real_Mediator\Real_Mediator\obj\Debug\net8.0\refint\Real_Mediator_PhongChat.dll
+Z:\Hungle\Real_Mediator\Real_Mediator\obj\Debug\net8.0\Real_Mediator_PhongChat.pdb
+Z:\Hungle\Real_Mediator\Real_Mediator\obj\Debug\net8.0\Real_Mediator_PhongChat.genruntimeconfig.cache
+Z:\Hungle\Real_Mediator\Real_Mediator\obj\Debug\net8.0\ref\Real_Mediator_PhongChat.dll
