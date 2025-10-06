@@ -1,0 +1,7 @@
+Z:\Nguyen Thi Huynh Tran_DPM225490\Nguyen Thi Huynh Tran_DPM225490_Real10_Facade Design\bin\Debug\Nguyen Thi Huynh Tran_DPM225490_Real10_Facade Design.exe.config
+Z:\Nguyen Thi Huynh Tran_DPM225490\Nguyen Thi Huynh Tran_DPM225490_Real10_Facade Design\bin\Debug\Nguyen Thi Huynh Tran_DPM225490_Real10_Facade Design.exe
+Z:\Nguyen Thi Huynh Tran_DPM225490\Nguyen Thi Huynh Tran_DPM225490_Real10_Facade Design\bin\Debug\Nguyen Thi Huynh Tran_DPM225490_Real10_Facade Design.pdb
+Z:\Nguyen Thi Huynh Tran_DPM225490\Nguyen Thi Huynh Tran_DPM225490_Real10_Facade Design\obj\Debug\Nguyen Thi Huynh Tran_DPM225490_Real10_Facade Design.csproj.AssemblyReference.cache
+Z:\Nguyen Thi Huynh Tran_DPM225490\Nguyen Thi Huynh Tran_DPM225490_Real10_Facade Design\obj\Debug\Nguyen Thi Huynh Tran_DPM225490_Real10_Facade Design.csproj.CoreCompileInputs.cache
+Z:\Nguyen Thi Huynh Tran_DPM225490\Nguyen Thi Huynh Tran_DPM225490_Real10_Facade Design\obj\Debug\Nguyen Thi Huynh Tran_DPM225490_Real10_Facade Design.exe
+Z:\Nguyen Thi Huynh Tran_DPM225490\Nguyen Thi Huynh Tran_DPM225490_Real10_Facade Design\obj\Debug\Nguyen Thi Huynh Tran_DPM225490_Real10_Facade Design.pdb
