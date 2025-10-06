@@ -1,0 +1,14 @@
+Z:\dpm225510-nguyenchikhang\Real_Interpreter\Real_Interpreter\bin\Debug\net8.0\Real_Interpreter.exe
+Z:\dpm225510-nguyenchikhang\Real_Interpreter\Real_Interpreter\bin\Debug\net8.0\Real_Interpreter.deps.json
+Z:\dpm225510-nguyenchikhang\Real_Interpreter\Real_Interpreter\bin\Debug\net8.0\Real_Interpreter.runtimeconfig.json
+Z:\dpm225510-nguyenchikhang\Real_Interpreter\Real_Interpreter\bin\Debug\net8.0\Real_Interpreter.dll
+Z:\dpm225510-nguyenchikhang\Real_Interpreter\Real_Interpreter\bin\Debug\net8.0\Real_Interpreter.pdb
+Z:\dpm225510-nguyenchikhang\Real_Interpreter\Real_Interpreter\obj\Debug\net8.0\Real_Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+Z:\dpm225510-nguyenchikhang\Real_Interpreter\Real_Interpreter\obj\Debug\net8.0\Real_Interpreter.AssemblyInfoInputs.cache
+Z:\dpm225510-nguyenchikhang\Real_Interpreter\Real_Interpreter\obj\Debug\net8.0\Real_Interpreter.AssemblyInfo.cs
+Z:\dpm225510-nguyenchikhang\Real_Interpreter\Real_Interpreter\obj\Debug\net8.0\Real_Interpreter.csproj.CoreCompileInputs.cache
+Z:\dpm225510-nguyenchikhang\Real_Interpreter\Real_Interpreter\obj\Debug\net8.0\Real_Interpreter.dll
+Z:\dpm225510-nguyenchikhang\Real_Interpreter\Real_Interpreter\obj\Debug\net8.0\refint\Real_Interpreter.dll
+Z:\dpm225510-nguyenchikhang\Real_Interpreter\Real_Interpreter\obj\Debug\net8.0\Real_Interpreter.pdb
+Z:\dpm225510-nguyenchikhang\Real_Interpreter\Real_Interpreter\obj\Debug\net8.0\Real_Interpreter.genruntimeconfig.cache
+Z:\dpm225510-nguyenchikhang\Real_Interpreter\Real_Interpreter\obj\Debug\net8.0\ref\Real_Interpreter.dll

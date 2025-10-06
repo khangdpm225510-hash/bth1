@@ -1,0 +1,14 @@
+Z:\dpm225510-nguyenchikhang\Pattern_Interpreter\Pattern_Interpreter\obj\Debug\net8.0\Pattern_Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+Z:\dpm225510-nguyenchikhang\Pattern_Interpreter\Pattern_Interpreter\obj\Debug\net8.0\Pattern_Interpreter.AssemblyInfoInputs.cache
+Z:\dpm225510-nguyenchikhang\Pattern_Interpreter\Pattern_Interpreter\obj\Debug\net8.0\Pattern_Interpreter.AssemblyInfo.cs
+Z:\dpm225510-nguyenchikhang\Pattern_Interpreter\Pattern_Interpreter\obj\Debug\net8.0\Pattern_Interpreter.csproj.CoreCompileInputs.cache
+Z:\dpm225510-nguyenchikhang\Pattern_Interpreter\Pattern_Interpreter\bin\Debug\net8.0\Pattern_Interpreter.exe
+Z:\dpm225510-nguyenchikhang\Pattern_Interpreter\Pattern_Interpreter\bin\Debug\net8.0\Pattern_Interpreter.deps.json
+Z:\dpm225510-nguyenchikhang\Pattern_Interpreter\Pattern_Interpreter\bin\Debug\net8.0\Pattern_Interpreter.runtimeconfig.json
+Z:\dpm225510-nguyenchikhang\Pattern_Interpreter\Pattern_Interpreter\bin\Debug\net8.0\Pattern_Interpreter.dll
+Z:\dpm225510-nguyenchikhang\Pattern_Interpreter\Pattern_Interpreter\bin\Debug\net8.0\Pattern_Interpreter.pdb
+Z:\dpm225510-nguyenchikhang\Pattern_Interpreter\Pattern_Interpreter\obj\Debug\net8.0\Pattern_Interpreter.dll
+Z:\dpm225510-nguyenchikhang\Pattern_Interpreter\Pattern_Interpreter\obj\Debug\net8.0\refint\Pattern_Interpreter.dll
+Z:\dpm225510-nguyenchikhang\Pattern_Interpreter\Pattern_Interpreter\obj\Debug\net8.0\Pattern_Interpreter.pdb
+Z:\dpm225510-nguyenchikhang\Pattern_Interpreter\Pattern_Interpreter\obj\Debug\net8.0\Pattern_Interpreter.genruntimeconfig.cache
+Z:\dpm225510-nguyenchikhang\Pattern_Interpreter\Pattern_Interpreter\obj\Debug\net8.0\ref\Pattern_Interpreter.dll

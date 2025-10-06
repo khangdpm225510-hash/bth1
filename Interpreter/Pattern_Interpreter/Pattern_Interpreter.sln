@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern_Interpreter", "Pattern_Interpreter\Pattern_Interpreter.csproj", "{B594C282-C958-403C-9844-765C6C4797F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B594C282-C958-403C-9844-765C6C4797F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B594C282-C958-403C-9844-765C6C4797F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B594C282-C958-403C-9844-765C6C4797F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B594C282-C958-403C-9844-765C6C4797F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6CE9DF0-D6A2-4606-9C0E-F616EA86D1C6}
+	EndGlobalSection
+EndGlobal

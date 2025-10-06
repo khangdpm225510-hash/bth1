@@ -1,0 +1,14 @@
+Z:\dpm225510-nguyenchikhang\MyWorld_Interpreter\MyWorld_Interpreter\obj\Debug\net8.0\MyWorld_Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+Z:\dpm225510-nguyenchikhang\MyWorld_Interpreter\MyWorld_Interpreter\obj\Debug\net8.0\MyWorld_Interpreter.AssemblyInfoInputs.cache
+Z:\dpm225510-nguyenchikhang\MyWorld_Interpreter\MyWorld_Interpreter\obj\Debug\net8.0\MyWorld_Interpreter.AssemblyInfo.cs
+Z:\dpm225510-nguyenchikhang\MyWorld_Interpreter\MyWorld_Interpreter\obj\Debug\net8.0\MyWorld_Interpreter.csproj.CoreCompileInputs.cache
+Z:\dpm225510-nguyenchikhang\MyWorld_Interpreter\MyWorld_Interpreter\bin\Debug\net8.0\MyWorld_Interpreter.exe
+Z:\dpm225510-nguyenchikhang\MyWorld_Interpreter\MyWorld_Interpreter\bin\Debug\net8.0\MyWorld_Interpreter.deps.json
+Z:\dpm225510-nguyenchikhang\MyWorld_Interpreter\MyWorld_Interpreter\bin\Debug\net8.0\MyWorld_Interpreter.runtimeconfig.json
+Z:\dpm225510-nguyenchikhang\MyWorld_Interpreter\MyWorld_Interpreter\bin\Debug\net8.0\MyWorld_Interpreter.dll
+Z:\dpm225510-nguyenchikhang\MyWorld_Interpreter\MyWorld_Interpreter\bin\Debug\net8.0\MyWorld_Interpreter.pdb
+Z:\dpm225510-nguyenchikhang\MyWorld_Interpreter\MyWorld_Interpreter\obj\Debug\net8.0\MyWorld_Interpreter.dll
+Z:\dpm225510-nguyenchikhang\MyWorld_Interpreter\MyWorld_Interpreter\obj\Debug\net8.0\refint\MyWorld_Interpreter.dll
+Z:\dpm225510-nguyenchikhang\MyWorld_Interpreter\MyWorld_Interpreter\obj\Debug\net8.0\MyWorld_Interpreter.pdb
+Z:\dpm225510-nguyenchikhang\MyWorld_Interpreter\MyWorld_Interpreter\obj\Debug\net8.0\MyWorld_Interpreter.genruntimeconfig.cache
+Z:\dpm225510-nguyenchikhang\MyWorld_Interpreter\MyWorld_Interpreter\obj\Debug\net8.0\ref\MyWorld_Interpreter.dll
