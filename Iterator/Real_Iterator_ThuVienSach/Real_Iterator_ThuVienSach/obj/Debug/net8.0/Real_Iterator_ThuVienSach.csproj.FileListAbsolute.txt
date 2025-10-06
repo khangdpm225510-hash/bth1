@@ -1,0 +1,14 @@
+Z:\Hungle\Real_Iterator_ThuVienSach\Real_Iterator_ThuVienSach\bin\Debug\net8.0\Real_Iterator_ThuVienSach.exe
+Z:\Hungle\Real_Iterator_ThuVienSach\Real_Iterator_ThuVienSach\bin\Debug\net8.0\Real_Iterator_ThuVienSach.deps.json
+Z:\Hungle\Real_Iterator_ThuVienSach\Real_Iterator_ThuVienSach\bin\Debug\net8.0\Real_Iterator_ThuVienSach.runtimeconfig.json
+Z:\Hungle\Real_Iterator_ThuVienSach\Real_Iterator_ThuVienSach\bin\Debug\net8.0\Real_Iterator_ThuVienSach.dll
+Z:\Hungle\Real_Iterator_ThuVienSach\Real_Iterator_ThuVienSach\bin\Debug\net8.0\Real_Iterator_ThuVienSach.pdb
+Z:\Hungle\Real_Iterator_ThuVienSach\Real_Iterator_ThuVienSach\obj\Debug\net8.0\Real_Iterator_ThuVienSach.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Hungle\Real_Iterator_ThuVienSach\Real_Iterator_ThuVienSach\obj\Debug\net8.0\Real_Iterator_ThuVienSach.AssemblyInfoInputs.cache
+Z:\Hungle\Real_Iterator_ThuVienSach\Real_Iterator_ThuVienSach\obj\Debug\net8.0\Real_Iterator_ThuVienSach.AssemblyInfo.cs
+Z:\Hungle\Real_Iterator_ThuVienSach\Real_Iterator_ThuVienSach\obj\Debug\net8.0\Real_Iterator_ThuVienSach.csproj.CoreCompileInputs.cache
+Z:\Hungle\Real_Iterator_ThuVienSach\Real_Iterator_ThuVienSach\obj\Debug\net8.0\Real_Iterator_ThuVienSach.dll
+Z:\Hungle\Real_Iterator_ThuVienSach\Real_Iterator_ThuVienSach\obj\Debug\net8.0\refint\Real_Iterator_ThuVienSach.dll
+Z:\Hungle\Real_Iterator_ThuVienSach\Real_Iterator_ThuVienSach\obj\Debug\net8.0\Real_Iterator_ThuVienSach.pdb
+Z:\Hungle\Real_Iterator_ThuVienSach\Real_Iterator_ThuVienSach\obj\Debug\net8.0\Real_Iterator_ThuVienSach.genruntimeconfig.cache
+Z:\Hungle\Real_Iterator_ThuVienSach\Real_Iterator_ThuVienSach\obj\Debug\net8.0\ref\Real_Iterator_ThuVienSach.dll

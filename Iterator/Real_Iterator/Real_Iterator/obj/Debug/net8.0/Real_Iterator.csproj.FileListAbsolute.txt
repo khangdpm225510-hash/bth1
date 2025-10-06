@@ -1,0 +1,14 @@
+Z:\Hungle\Real_Iterator\Real_Iterator\bin\Debug\net8.0\Real_Iterator.exe
+Z:\Hungle\Real_Iterator\Real_Iterator\bin\Debug\net8.0\Real_Iterator.deps.json
+Z:\Hungle\Real_Iterator\Real_Iterator\bin\Debug\net8.0\Real_Iterator.runtimeconfig.json
+Z:\Hungle\Real_Iterator\Real_Iterator\bin\Debug\net8.0\Real_Iterator.dll
+Z:\Hungle\Real_Iterator\Real_Iterator\bin\Debug\net8.0\Real_Iterator.pdb
+Z:\Hungle\Real_Iterator\Real_Iterator\obj\Debug\net8.0\Real_Iterator.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Hungle\Real_Iterator\Real_Iterator\obj\Debug\net8.0\Real_Iterator.AssemblyInfoInputs.cache
+Z:\Hungle\Real_Iterator\Real_Iterator\obj\Debug\net8.0\Real_Iterator.AssemblyInfo.cs
+Z:\Hungle\Real_Iterator\Real_Iterator\obj\Debug\net8.0\Real_Iterator.csproj.CoreCompileInputs.cache
+Z:\Hungle\Real_Iterator\Real_Iterator\obj\Debug\net8.0\Real_Iterator.dll
+Z:\Hungle\Real_Iterator\Real_Iterator\obj\Debug\net8.0\refint\Real_Iterator.dll
+Z:\Hungle\Real_Iterator\Real_Iterator\obj\Debug\net8.0\Real_Iterator.pdb
+Z:\Hungle\Real_Iterator\Real_Iterator\obj\Debug\net8.0\Real_Iterator.genruntimeconfig.cache
+Z:\Hungle\Real_Iterator\Real_Iterator\obj\Debug\net8.0\ref\Real_Iterator.dll

@@ -1,0 +1,14 @@
+Z:\Hungle\Pattern_Iterator\Pattern_Iterator\bin\Debug\net8.0\Pattern_Iterator.exe
+Z:\Hungle\Pattern_Iterator\Pattern_Iterator\bin\Debug\net8.0\Pattern_Iterator.deps.json
+Z:\Hungle\Pattern_Iterator\Pattern_Iterator\bin\Debug\net8.0\Pattern_Iterator.runtimeconfig.json
+Z:\Hungle\Pattern_Iterator\Pattern_Iterator\bin\Debug\net8.0\Pattern_Iterator.dll
+Z:\Hungle\Pattern_Iterator\Pattern_Iterator\bin\Debug\net8.0\Pattern_Iterator.pdb
+Z:\Hungle\Pattern_Iterator\Pattern_Iterator\obj\Debug\net8.0\Pattern_Iterator.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Hungle\Pattern_Iterator\Pattern_Iterator\obj\Debug\net8.0\Pattern_Iterator.AssemblyInfoInputs.cache
+Z:\Hungle\Pattern_Iterator\Pattern_Iterator\obj\Debug\net8.0\Pattern_Iterator.AssemblyInfo.cs
+Z:\Hungle\Pattern_Iterator\Pattern_Iterator\obj\Debug\net8.0\Pattern_Iterator.csproj.CoreCompileInputs.cache
+Z:\Hungle\Pattern_Iterator\Pattern_Iterator\obj\Debug\net8.0\Pattern_Iterator.dll
+Z:\Hungle\Pattern_Iterator\Pattern_Iterator\obj\Debug\net8.0\refint\Pattern_Iterator.dll
+Z:\Hungle\Pattern_Iterator\Pattern_Iterator\obj\Debug\net8.0\Pattern_Iterator.pdb
+Z:\Hungle\Pattern_Iterator\Pattern_Iterator\obj\Debug\net8.0\Pattern_Iterator.genruntimeconfig.cache
+Z:\Hungle\Pattern_Iterator\Pattern_Iterator\obj\Debug\net8.0\ref\Pattern_Iterator.dll
