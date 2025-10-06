@@ -1,0 +1,14 @@
+Z:\dpm225510-nguyenchikhang\Myworld_Command\Myworld_Command\obj\Debug\net8.0\Myworld_Command.GeneratedMSBuildEditorConfig.editorconfig
+Z:\dpm225510-nguyenchikhang\Myworld_Command\Myworld_Command\obj\Debug\net8.0\Myworld_Command.AssemblyInfoInputs.cache
+Z:\dpm225510-nguyenchikhang\Myworld_Command\Myworld_Command\obj\Debug\net8.0\Myworld_Command.AssemblyInfo.cs
+Z:\dpm225510-nguyenchikhang\Myworld_Command\Myworld_Command\obj\Debug\net8.0\Myworld_Command.csproj.CoreCompileInputs.cache
+Z:\dpm225510-nguyenchikhang\Myworld_Command\Myworld_Command\bin\Debug\net8.0\Myworld_Command.exe
+Z:\dpm225510-nguyenchikhang\Myworld_Command\Myworld_Command\bin\Debug\net8.0\Myworld_Command.deps.json
+Z:\dpm225510-nguyenchikhang\Myworld_Command\Myworld_Command\bin\Debug\net8.0\Myworld_Command.runtimeconfig.json
+Z:\dpm225510-nguyenchikhang\Myworld_Command\Myworld_Command\bin\Debug\net8.0\Myworld_Command.dll
+Z:\dpm225510-nguyenchikhang\Myworld_Command\Myworld_Command\bin\Debug\net8.0\Myworld_Command.pdb
+Z:\dpm225510-nguyenchikhang\Myworld_Command\Myworld_Command\obj\Debug\net8.0\Myworld_Command.dll
+Z:\dpm225510-nguyenchikhang\Myworld_Command\Myworld_Command\obj\Debug\net8.0\refint\Myworld_Command.dll
+Z:\dpm225510-nguyenchikhang\Myworld_Command\Myworld_Command\obj\Debug\net8.0\Myworld_Command.pdb
+Z:\dpm225510-nguyenchikhang\Myworld_Command\Myworld_Command\obj\Debug\net8.0\Myworld_Command.genruntimeconfig.cache
+Z:\dpm225510-nguyenchikhang\Myworld_Command\Myworld_Command\obj\Debug\net8.0\ref\Myworld_Command.dll

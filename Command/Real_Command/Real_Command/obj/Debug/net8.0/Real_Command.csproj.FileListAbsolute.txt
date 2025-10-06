@@ -1,0 +1,14 @@
+Z:\dpm225510-nguyenchikhang\Real_Command\Real_Command\obj\Debug\net8.0\Real_Command.GeneratedMSBuildEditorConfig.editorconfig
+Z:\dpm225510-nguyenchikhang\Real_Command\Real_Command\obj\Debug\net8.0\Real_Command.AssemblyInfoInputs.cache
+Z:\dpm225510-nguyenchikhang\Real_Command\Real_Command\obj\Debug\net8.0\Real_Command.AssemblyInfo.cs
+Z:\dpm225510-nguyenchikhang\Real_Command\Real_Command\obj\Debug\net8.0\Real_Command.csproj.CoreCompileInputs.cache
+Z:\dpm225510-nguyenchikhang\Real_Command\Real_Command\bin\Debug\net8.0\Real_Command.exe
+Z:\dpm225510-nguyenchikhang\Real_Command\Real_Command\bin\Debug\net8.0\Real_Command.deps.json
+Z:\dpm225510-nguyenchikhang\Real_Command\Real_Command\bin\Debug\net8.0\Real_Command.runtimeconfig.json
+Z:\dpm225510-nguyenchikhang\Real_Command\Real_Command\bin\Debug\net8.0\Real_Command.dll
+Z:\dpm225510-nguyenchikhang\Real_Command\Real_Command\bin\Debug\net8.0\Real_Command.pdb
+Z:\dpm225510-nguyenchikhang\Real_Command\Real_Command\obj\Debug\net8.0\Real_Command.dll
+Z:\dpm225510-nguyenchikhang\Real_Command\Real_Command\obj\Debug\net8.0\refint\Real_Command.dll
+Z:\dpm225510-nguyenchikhang\Real_Command\Real_Command\obj\Debug\net8.0\Real_Command.pdb
+Z:\dpm225510-nguyenchikhang\Real_Command\Real_Command\obj\Debug\net8.0\Real_Command.genruntimeconfig.cache
+Z:\dpm225510-nguyenchikhang\Real_Command\Real_Command\obj\Debug\net8.0\ref\Real_Command.dll

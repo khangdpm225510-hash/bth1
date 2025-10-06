@@ -1,0 +1,14 @@
+Z:\dpm225510-nguyenchikhang\Pattern_Command\Pattern_Command\obj\Debug\net8.0\Pattern_Command.GeneratedMSBuildEditorConfig.editorconfig
+Z:\dpm225510-nguyenchikhang\Pattern_Command\Pattern_Command\obj\Debug\net8.0\Pattern_Command.AssemblyInfoInputs.cache
+Z:\dpm225510-nguyenchikhang\Pattern_Command\Pattern_Command\obj\Debug\net8.0\Pattern_Command.AssemblyInfo.cs
+Z:\dpm225510-nguyenchikhang\Pattern_Command\Pattern_Command\obj\Debug\net8.0\Pattern_Command.csproj.CoreCompileInputs.cache
+Z:\dpm225510-nguyenchikhang\Pattern_Command\Pattern_Command\bin\Debug\net8.0\Pattern_Command.exe
+Z:\dpm225510-nguyenchikhang\Pattern_Command\Pattern_Command\bin\Debug\net8.0\Pattern_Command.deps.json
+Z:\dpm225510-nguyenchikhang\Pattern_Command\Pattern_Command\bin\Debug\net8.0\Pattern_Command.runtimeconfig.json
+Z:\dpm225510-nguyenchikhang\Pattern_Command\Pattern_Command\bin\Debug\net8.0\Pattern_Command.dll
+Z:\dpm225510-nguyenchikhang\Pattern_Command\Pattern_Command\bin\Debug\net8.0\Pattern_Command.pdb
+Z:\dpm225510-nguyenchikhang\Pattern_Command\Pattern_Command\obj\Debug\net8.0\Pattern_Command.dll
+Z:\dpm225510-nguyenchikhang\Pattern_Command\Pattern_Command\obj\Debug\net8.0\refint\Pattern_Command.dll
+Z:\dpm225510-nguyenchikhang\Pattern_Command\Pattern_Command\obj\Debug\net8.0\Pattern_Command.pdb
+Z:\dpm225510-nguyenchikhang\Pattern_Command\Pattern_Command\obj\Debug\net8.0\Pattern_Command.genruntimeconfig.cache
+Z:\dpm225510-nguyenchikhang\Pattern_Command\Pattern_Command\obj\Debug\net8.0\ref\Pattern_Command.dll
